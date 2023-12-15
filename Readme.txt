@@ -50,7 +50,7 @@ Conclusion/ Findings of the project:
 
 * 1.1 The first part of the first research question: How do weather conditions influence sales performance
 
-        * A comparison of the weather data line graphs for the locations with our sales line graph looks an on first sight like there could be a possible                 correlation if you only look at the year 2010 and would not have the data for 2011.
+        * A comparison of the weather data line graphs for the locations with our sales line graph looks an on first sight like there could be a possible                 correlation between sunshine duration and sales if you only look at the year 2010 and would not have the data for 2011.
 
         * Sales plunge between mid-June and the end of November, remaining at a relatively low level until December, and then peaking in January before                   declining again.
 
@@ -71,7 +71,7 @@ Conclusion/ Findings of the project:
         * In summary, while there are some indications of correlation between sales and weather conditions for 2010, these findings are not robust enough to              establish a definitive link. Similarly, there is no clear correlation between sales and geographical location or market factors.
 
 
-2. How to effectively predict sales values for US stores using a combination of sales data, store information, product information, accounting information, and weather data as features?
+2. How to effectively predict sales values for US stores using a combination of sales data, store information, product information, accounting information as features?
 
     Answer:
 
